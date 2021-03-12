@@ -7,4 +7,4 @@ Software developer based in Italy with 4+ years of experience specialized in bac
 - [Django DRF starter pack](https://github.com/scasolari/Django-DRF-starter-pack)
 
 Founder of [Mailcube ADV](https://mailcube.placedv.com)</br>
-[sergiocasolari.com](https://sergiocasolari.com)
+Personal web site [sergiocasolari.com](https://sergiocasolari.com)
