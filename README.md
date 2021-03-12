@@ -6,5 +6,5 @@ Software developer based in Italy with 4+ years of experience specialized in bac
 - [Google CM Floodlight Tag Injection](https://www.npmjs.com/package/google-fls)
 - [Django DRF starter pack](https://github.com/scasolari/Django-DRF-starter-pack)
 
-Founder of [Mailcube ADV](https://mailcube.placedv.com)
+Founder of [Mailcube ADV](https://mailcube.placedv.com)</br>
 [sergiocasolari.com](https://sergiocasolari.com)
