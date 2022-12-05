@@ -1,10 +1,9 @@
 **I'm Sergio Casolari** 
 
-Software developer based in Italy with 4+ years of experience specialized in backend architectures and JavaScript ecosystem how React and Node.js.
+Software developer based in Italy with 5+ years of experience specialized in backend architectures and JavaScript ecosystem how React and Node.js.
 
-- [Facebook Pixel Injection](https://www.npmjs.com/package/facebook-pixel-event-injection)
-- [Google CM Floodlight Tag Injection](https://www.npmjs.com/package/google-fls)
-- [Django DRF starter pack](https://github.com/scasolari/Django-DRF-starter-pack)
+- [Google CM Floodlight Tag Injection](https://goofls.sergiocasolari.com/)
+- [Placedv Pyramid](https://pyramid.placedv.com)
 
-Founder of [Mailcube ADV](https://mailcube.placedv.com)</br>
+Founder of [Placedv](https://placedv.com)</br>
 Personal web site [sergiocasolari.com](https://sergiocasolari.com)
